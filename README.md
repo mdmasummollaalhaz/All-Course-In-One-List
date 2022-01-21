@@ -1,7 +1,7 @@
 # All Course in One List  
 
 ### React
-- [Learn With Sumit React Tutorial (Bangla)](target="_blank" https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by Sumit Saha
+- [Learn With Sumit React Tutorial (Bangla)](https://youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) by Sumit Saha
 - [React Tutorial and Projects Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - John Smilga
 - [React Cheatsheet](https://devhints.io/react) - Devhints
 - [React Tutorial Bangla](https://www.youtube.com/watch?v=0qQLwaJKSC4&list=PLkyGuIcLcmx2abvUMewDtJf_jHjrX__0C) by Rabbil Hasan
